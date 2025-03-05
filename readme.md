@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I just work on what looks cool.<br>🌱 I'm learning Python at the moment.<br>💬 All of my contacts are qrexxed except Discord (z1lh)
+🔭 I just work on what looks cool.<br>🌱 I'm learning Python at the moment.<br>💬 All of my contacts are qrexxed except Discord (x.syskey)
 
 
 # 💻 Tech Stack:
