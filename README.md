@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm qrexpy 👋
 
-<!--
-**qrexpy/qrexpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=qrexpy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=qrexpy&theme=tokyonight&hide_border=false)<br/>
+
+---
+
+## 🔥 Top Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qrexpy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🛠️ Tech & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,cpp,react,nodejs,tailwindcss,git,github)](https://skillicons.dev)
+---
+
+##  osu! Stats
+
+[![osu! Profile](https://osu-sig.vercel.app/card?user=Haiu&id=24928724&mode=std&lang=en&animation=true&removebg=true)](https://osu.ppy.sh/users/24928724)
+
+---
+
