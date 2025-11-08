@@ -1,30 +1,12 @@
-# Hi there, I'm qrexpy 👋
+<div align="center">
+<img src="https://i.pinimg.com/originals/66/44/33/664433c62ab764c9a989700ecdd39544.gif" height="150px">
+  
 
-Welcome to my profile!  
+  
 
----
+<p>6-star python badge in hackerrank  
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=qrexpy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=qrexpy&theme=tokyonight&hide_border=false)<br/>
-
----
-
-## 🔥 Top Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=qrexpy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🛠️ Tech & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,cpp,react,nodejs,tailwindcss,git,github)](https://skillicons.dev)
----
-
-##  osu! Stats
-
-[![osu! Profile](https://osu-sig.vercel.app/card?user=Haiu&id=24928724&mode=std&lang=en&animation=true&removebg=true)](https://osu.ppy.sh/users/24928724)
-
----
-
+i also run the organization <a href="https://github.com/abyssalwave">@abyssalwave</a>.
+</p>
+<img src="https://lastfm-recently-played.vercel.app/api?user=qrexxed&bg_color=0d1117A0&border_radius=5&header_style=none&count=1&footer_style=none&width=400">
+</div>
